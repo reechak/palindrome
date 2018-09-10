@@ -3,7 +3,6 @@ package palindrome;
 public class mainClass {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		boolean x= isPalindrome("malayalam");
 		System.out.println(x);
 		boolean y =isEfficientPalindrome("malayalam");
